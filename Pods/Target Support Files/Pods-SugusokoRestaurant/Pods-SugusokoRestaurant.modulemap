@@ -1,0 +1,6 @@
+module Pods_SugusokoRestaurant {
+  umbrella header "Pods-SugusokoRestaurant-umbrella.h"
+
+  export *
+  module * { export * }
+}
